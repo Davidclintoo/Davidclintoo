@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Davidclintoo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering at the same mechanical engineering
+- 🌱 I’m currently learning software engineering(machine learning) at the same mechanical engineering
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ,you can reach me through my email (clintoodavi01@gmail.com) or contact me direct through (0108712423)
+- 📫 How to reach me ,you can reach me through my email (clintoodavi01@gmail.com) or contact me direct through (0708712423)
 
 <!---
 Davidclintoo/Davidclintoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
